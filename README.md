@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project enables the game on Roblox (([https://www.roblox.com/games/9281034297/2-Goal-Kick-Simulator](https://www.roblox.com/games/9281034297/2-Goal-Kick-Simulator))) using Computer Vision where the user can get into different poses to give commands to the player.
+This project enables the user to play [Goal Kick Simulator](https://www.roblox.com/games/9281034297/2-Goal-Kick-Simulator) on Roblox  using Computer Vision where he has to  get into different poses to give commands to the player.
 
 ---
 
@@ -27,11 +27,10 @@ The list of poses and its respective command is given below :
 - Install Roblox and run the given game
 - Clone this repository \
 `git clone https://github.com/Ashish-003/Roblox-GesturePlayer.git`
-- Navigate to the repository 
-`cd path/to/repository`\
+- Navigate to the repository \
+`cd path/to/repository`
 - Install the required packages\
 `pip3 install requirements.txt`
 - Run the python script and enjoy!\
 `python3 Roblox_Player.py`
-=======
 
