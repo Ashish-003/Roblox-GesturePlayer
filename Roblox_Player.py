@@ -274,8 +274,10 @@ def classifyPose(landmarks, output_image, display=False):
         return output_image, label
 
 def action(label,prev):
-    pyautogui.press('s')
-    pyautogui.keyDown('a')
+    # pyautogui.press('s')
+    # pyautogui.keyDown('a')
+    if label != 'None':
+        print(key[label])
     # keyboard.press('a')
     # keyboard.release('a')
     # if(label == 'squat'):
@@ -351,9 +353,9 @@ while True:
     
     # Update the previous frame time to this frame time.
     # As this frame will become previous frame in next iteration.
-    # action(label,prev)
+    action(label,prev)
     # creating threads to send keyboard inputs to roblox window
-    x = threading.Thread(target=action,args = (label,prev,),daemon = True)
+    # x = threading.Thread(target=action,args = (label,prev,),daemon = True)
     # x.start
     # x.join
     # sleep(0.01)
