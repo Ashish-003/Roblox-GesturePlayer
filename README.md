@@ -1,5 +1,4 @@
-# Roblox-Gesture-Player
-<<<<<<< HEAD
+
 
 ---
 
@@ -27,7 +26,7 @@ The list of poses and its respective command is given below :
 
 - Install Roblox and run the given game
 - Clone this repository 
-`git clone [https://github.com/Ashish-003/Roblox-GesturePlayer.git](https://github.com/Ashish-003/Roblox-GesturePlayer.git)`
+`git clone https://github.com/Ashish-003/Roblox-GesturePlayer.git`
 - Navigate to the repository 
 `cd path/to/repository`
 - Install the required packages
@@ -35,5 +34,4 @@ The list of poses and its respective command is given below :
 - Run the python script and enjoy!
 `python3 Roblox_Player.py`
 =======
-Using Pose Detection to play games on Roblox
->>>>>>> b351b69e1201a760abf2da6c80e6915629ef5b94
+
