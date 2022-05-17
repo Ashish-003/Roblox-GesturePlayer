@@ -25,13 +25,13 @@ The list of poses and its respective command is given below :
 ## Get Set Go
 
 - Install Roblox and run the given game
-- Clone this repository 
+- Clone this repository \
 `git clone https://github.com/Ashish-003/Roblox-GesturePlayer.git`
 - Navigate to the repository 
-`cd path/to/repository`
-- Install the required packages
+`cd path/to/repository`\
+- Install the required packages\
 `pip3 install requirements.txt`
-- Run the python script and enjoy!
+- Run the python script and enjoy!\
 `python3 Roblox_Player.py`
 =======
 
