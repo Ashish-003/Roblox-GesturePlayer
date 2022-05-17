@@ -33,4 +33,4 @@ The list of poses and its respective command is given below :
 `pip3 install requirements.txt`
 - Run the python script and enjoy!\
 `python3 Roblox_Player.py`
-
+- Press Esc to Exit the Script
